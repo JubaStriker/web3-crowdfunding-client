@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home';
 import { Navbar, Sidebar } from './components';
 import Profile from './pages/Profile';
-import CreateCampaign from './pages/CReateCampaign';
+import CreateCampaign from './pages/CreateCampaign';
 import CampaignDetails from './pages/CampaignDetails';
 
 const App = () => {
