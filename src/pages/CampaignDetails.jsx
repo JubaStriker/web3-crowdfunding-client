@@ -4,7 +4,6 @@ const CampaignDetails = () => {
     return (
         <div>
             CampaignDetails
-            CampaignDetails
         </div>
     );
 };
