@@ -69,7 +69,8 @@ export const StateContextProvider = ({ children }) => {
                 contract,
                 connect,
                 createCampaign: publishCampaign,
-                getCampaigns
+                getCampaigns,
+                getUserCampaigns
             }}
         >
             {children}
